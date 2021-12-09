@@ -1,0 +1,112 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "breed": "dog",
+      "name": "Doodles :)",
+      "locationId": 2,
+      "customerId": 2
+    },
+    {
+      "id": 2,
+      "breed": "blue ",
+      "name": "mel",
+      "locationId": 4,
+      "customerId": 3
+    },
+    {
+      "id": 3,
+      "name": "Pancake",
+      "breed": "mix",
+      "customerId": 3,
+      "locationId": 2
+    },
+    {
+      "name": "lola",
+      "breed": "Aussiedor",
+      "locationId": 1,
+      "customerId": 2,
+      "id": 4
+    },
+    {
+      "name": "annoying pancake ",
+      "breed": "dont know",
+      "locationId": 1,
+      "customerId": 3,
+      "id": 5
+    },
+    {
+      "name": "frog",
+      "breed": "dog",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 6
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Tommy Spurlock",
+      "address": "1234 newforce drive"
+    },
+    {
+      "id": 3,
+      "name": "Fisher Cross",
+      "address": "7456 highlander way"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Nima",
+      "locationId": 4
+    },
+    {
+      "id": 2,
+      "name": "Jordan T",
+      "locationId": 2
+    },
+    {
+      "name": "mel",
+      "locationId": 1,
+      "id": 3
+    },
+    {
+      "name": "Sarah Ashby",
+      "locationId": 1,
+      "id": 4
+    },
+    {
+      "name": "tre topping",
+      "locationId": 1,
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson street"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "chw",
+      "address": "jnvlfdnvf",
+      "id": 3
+    },
+    {
+      "name": "huntington",
+      "address": "sfjnfnlk",
+      "id": 4
+    }
+  ]
+}
